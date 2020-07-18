@@ -1,0 +1,2 @@
+g++ -o assignment1.out assignment1.cpp -lm -lGL -lGLU -lglut
+./assignment1.out
