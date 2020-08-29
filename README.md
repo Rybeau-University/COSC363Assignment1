@@ -9,7 +9,7 @@ This the the C++ OpenGL Programming Project I created for my COSC363 Computer Gr
 ![Building Exterior Image](https://i.imgur.com/AErV7ye.jpg "Building Exterior")
 
 ##### Skybox
-![Skybow Image](https://i.imgur.com/bEjwidd.jpg "Skybox")
+![Skybow Image](https://i.imgur.com/bEjwidd.jpg "Skybox" =250x)
 
 ##### Running Man
 ![Running Man Image](https://i.imgur.com/cICQJje.jpg "Running Man")
