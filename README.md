@@ -6,25 +6,25 @@ This the the C++ OpenGL Programming Project I created for my COSC363 Computer Gr
 
 ### Photos
 ##### Building Exterior
-![Building Exterior Image](https://i.imgur.com/AErV7ye.jpg "Building Exterior")
+![Building Exterior Image](https://i.imgur.com/Y7NaPdOl.jpg "Building Exterior")
 
 ##### Skybox
-![Skybow Image](https://i.imgur.com/bEjwidd.jpg "Skybox")
+![Skybow Image](https://i.imgur.com/bEjwiddl.jpg "Skybox")
 
 ##### Running Man
-![Running Man Image](https://i.imgur.com/cICQJje.jpg "Running Man")
+![Running Man Image](https://i.imgur.com/cICQJjel.jpg "Running Man")
 
 ##### Firing Cannon
-![Firing Cannon Image](https://i.imgur.com/Y0wLLV4.jpg "Firing Cannon")
+![Firing Cannon Image](https://i.imgur.com/Y0wLLV4l.jpg "Firing Cannon")
 
 ##### Flying Plane
-![Imgur](https://i.imgur.com/suVgkhK.jpg)
+![Imgur](https://i.imgur.com/suVgkhKl.jpg)
 
 ##### Driving Car
-![Imgur](https://i.imgur.com/Wgb5mY3.jpg)
+![Imgur](https://i.imgur.com/Wgb5mY3l.jpg)
 
 ##### Planar Shadow
-![Imgur](https://i.imgur.com/v8yT2Ig.jpg)
+![Imgur](https://i.imgur.com/v8yT2Igl.jpg)
 
 ##### Swinging Spotlight
-![Imgur](https://i.imgur.com/41Gt25b.jpg)
+![Imgur](https://i.imgur.com/41Gt25bl.jpg)
